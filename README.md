@@ -1,0 +1,4 @@
+- server:
+- cd server
+- npm run dev
+- npm start - client
